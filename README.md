@@ -12,9 +12,9 @@
 
 <!-- HEADLINE -->
 
-<p align="center">
+<h2 align="center">
   Soy un desarrollador web Full Stack 💻🚀
-</p>
+</h2>
 
 <p align="center">
   Me considero una persona proactiva, disciplinada, apasionada por todo lo que hace, que se adapata a las circunstancias, me gusta el trabajo en equipo y el liderazgo. Me gusta enfocarme en la resoulocion de problemas a traves de un analisis del mismo y un planeamiento especifico, tambien me gusta el diseño y el trabajo creativo 🤝

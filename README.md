@@ -63,12 +63,8 @@
 <a href="https://git-scm.com/">
     <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
   </a>­­
-
-<a href="https://github.com/Santi-Ostrovsky">
-    <img height="50" width="50" src="./Assets/SVG/github.svg" alt="GitHub" />
-  </a>­­
-­­­­
-
+­­
+­­­
 </p>
 
 </br>

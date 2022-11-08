@@ -72,6 +72,25 @@
 <h2></h2>
 
 <!-- ----------------------------------------------------- -->
+
+<!-- CONTACT INFO. -->
+
+<h3 align="center">Contacto 📲</h3>
+
+<p align="center">
+
+<a href="mailto:francocamuspp@gmail.com">
+    <img height="50" width="50" src="./Images/gmail.svg" alt="Gmail"/>
+  </a>­­
+
+<a href="https://www.linkedin.com/in/franco-santiago-camus-1121261a8/">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" />
+  </a>
+
+</p>
+
+<!-- ----------------------------------------------------- -->
+
 <!--
 **francocamuss/francocamuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

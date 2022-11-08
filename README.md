@@ -1,6 +1,8 @@
-![This is an image](https://i.pinimg.com/564x/fd/8d/f9/fd8df94b146d01174be100ea3c62fcd6.jpg)
+<p align="center" width="100%">
+  <img src="./Images/banner.png" alt="Banner" />
+</p>
 
-Hola! Mi nombre es Franco 👋, soy un desarrollador web **Full Stack** 
+Hola! Mi nombre es Franco 👋, soy un desarrollador web **Full Stack**
 
 <!--
 **francocamuss/francocamuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

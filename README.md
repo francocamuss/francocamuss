@@ -17,7 +17,7 @@
 </h2>
 
 <p align="center">
-  Soy un desarrollador web full-stack y me considero una persona proactiva, disciplinada, apasionada por todo lo que hace. Me adapto a las circunstancias, me gusta el trabajo en equipo y el liderazgo. Me gusta enfocarme en la resolución de problemas a través de un análisis del mismo y un planeamiento especifico, también me gusta el diseño y el trabajo creativo. 🤝
+  Me considero una persona proactiva, disciplinada, apasionada por todo lo que hace. Me adapto a las circunstancias, me gusta el trabajo en equipo y el liderazgo. Me gusta enfocarme en la resolución de problemas a través de un análisis del mismo y un planeamiento especifico, también me gusta el diseño y el trabajo creativo. 🤝
 </p>
 
 <!-- ----------------------------------------------------- -->
